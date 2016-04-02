@@ -1,3 +1,6 @@
+* _[请遵循招聘栏目规则](https://ruby-china.org/topics/25579)_
+* _之前发过的一些帖子：[01](https://ruby-china.org/topics/10044) [02](https://ruby-china.org/topics/17336)_
+
 [佛山] 有演出招聘Rails工程师、前端工程师
 ========================================
 
@@ -50,14 +53,14 @@
 
 如果你有其他东西要展示给我们，请打包这些文件然后作为附件发送。
 
-外链
-----
+深入了解
+--------
 
 * [GaiaMagic on GitHub](https://github.com/GaiaMagic)
 
 我们的网站：
 
-* 官网：[gaiamagic.com](https://gaiamagic.com/)
+* 公司网站：[gaiamagic.com](https://gaiamagic.com/)
 * 有演出：[youyanchu.com](https://youyanchu.com/)
 * 音乐人攻略：[musicianguide.cn](http://musicianguide.cn)
 * 合拍音乐：[hepaimusic.com](http://hepaimusic.com)
