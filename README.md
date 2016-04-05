@@ -35,7 +35,7 @@
 
 前端：
 
-* 熟悉 Node.JS
+* 熟悉 Node.js
 * 熟悉 jQuery 或 AngularJS
 
 如果你符合上述要求，请发送你的简历到 hr@gaiamagic.com 。简历要求在下面。如果你讨厌写简历，也可以在工作日直接上来我们公司。
