@@ -35,11 +35,12 @@
 * 熟悉 Node.js
 * 熟悉 jQuery 或 AngularJS
 
-### 加分项
+### 加分项：
 
 * 使用 Vim 或 Emacs
-* 有独立的技术 Blog
+* 有技术 Blog
 * 参与过开源项目并有所贡献
+* 对其它语言也有所了解，如 Python、Go 等
 
 如果你符合上述要求，请发送你的简历到 hr@gaiamagic.com 。简历要求在下面。
 
